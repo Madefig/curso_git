@@ -1,0 +1,47 @@
+    1  history 
+    2   cleaer
+    3  cleAR
+    4  git config --global user.name 'Madeline Figueroa' 
+    5  git config --global  user.email 'madelineafigueroac@gmail.com'
+    6  git conf user.name
+    7  git config user.name
+    8  git config user.email
+    9  cd
+   10  cd
+   11  desktop
+   12  cd desktop/
+   13  cd curso_git/
+   14  git config user.email
+   15  git config user.email
+   16  git init
+   17  git status
+   18  echo '#aprendendo usar o Git' >readme.md
+   19  git status
+   20  git add readme.md
+   21  git status
+   22  git commit -m 'commit inicial'
+   23  git status
+   24  echo '##aula ' >>readme.md
+   25  git status
+   26  echo 'madeline figueroa' > participantes.txt
+   27  git status
+   28  git add.
+   29  git status
+   30  git add .
+   31  git status
+   32  git restore --staged participante.txt
+   33  git status
+   34  got store --stage participantes.txt
+   35  git restore --staged participantes.txt
+   36  git status
+   37  git add participante.txt
+   38  git add participantes.txt
+   39  git status
+   40  git restore --staged .
+   41  git status
+   42  git commit -am 'Alteracão no readme'
+   43  git status
+   44  git add participantes.txt
+   45  git status
+   46  git commit -m 'adicionado participantes.txt'
+   47  history >aula_3.txt
