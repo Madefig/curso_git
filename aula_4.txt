@@ -1,0 +1,60 @@
+    1  clear
+    2  git log
+    3  git log --pretty=oneline
+    4  git log --stat
+    5  git log -p
+    6  git log --pretty=oneline -2
+    7  git log --pretty=oneline -10
+    8  git log --since=2.minutes
+    9  git log --since=20.minutes
+   10  git log --since=1day
+   11  git log --author='madelinefigueroa
+q
+
+   12  git log --author='Madeline Figueroa'
+   13  git status
+   14  touch teste
+   15  git add teste
+   16  git status
+   17  git commit -m 'commit teste'
+   18  git log
+   19  q
+   20  git reset --soft HEAD~
+   21  git log
+   22  git status
+   23  git commit -m 'commit teste'
+   24  git log
+   25  git reset --hard HEAD~
+   26  GIT LOG
+   27  git log
+   28  git status
+   29  git log --pretty=oneline
+   30  git checkout HEAD~~
+   31  git status
+   32  git log
+   33  ls
+   34  git checkout master
+   35  git log
+   36  git checkout HEAD~2
+   37  git log
+   38  git checkout maste
+   39  git checkout master
+   40  clear
+   41  mkdir .vscode
+   42  touch conf.txt
+   43  mv conf.txt/ .vscode/
+   44  mv conf.txt .vscode/
+   45  ls
+   46  ls -a
+   47  git status
+   48  echo '.vscode/'> .gitignore
+   49  git status
+   50  touch pessoal.conf
+   51  git status
+   52  echo 'pessoal.conf' >>.gitignore
+   53  git status
+   54  git add .gitignore
+   55  git commit -m 'adicionado arquivo . gitignore'
+   56  git status
+   57  history >
+   58  history > aula_4.txt
